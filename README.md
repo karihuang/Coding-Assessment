@@ -4,6 +4,6 @@ A program that takes several input files from the command line and combine them 
 <ol>
   <li>Missing inputs from the command line</li>
   <li>File provided is invalid and/or not exist</li>
-  <li>If all rows of data from each file has been successfully added to the new stdout</li>
+  <li>If all rows of data from each file has been successfully added to stdout</li>
   <li>If the file name being added is correct</li>
 </ol>
