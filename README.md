@@ -1,6 +1,6 @@
 # PMGCodingAssessment
 
-A program that takes several arguments from the command line. The combiner is written in csv_combiner.py file, while the unit testing is included in the test.py. Several cases that will be tested are
+A program that takes several input files from the command line and combine them into stdout, with an addition column of the filename. The combiner is written in csv_combiner.py file, and the unit testing is included in the test.py. Several cases that will be tested are
 <ol>
   <li>If there are missing inputs</li>
   <li>If the file provided is valid and/or exist</li>
